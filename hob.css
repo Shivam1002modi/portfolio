@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #363636;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+
+  .header-title:hover{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    color: rgb(255, 0, 251);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .service-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .service-template {
+    width: 95%;
+    height: 95%;
+    max-width: 300px;
+    height: max-content ;
+    margin: 0 20px 20px 0;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 5px 10px 20px cyan ;
+    }
+
+    .service-template:hover{
+      width: 100%;
+      height: 100%;
+      max-width: 320px;
+      height: max-content ;
+      margin: 0 20px 20px 0;
+      text-align: center;
+      padding: 5px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      box-shadow: 5px 10px 20px rgb(255, 0, 251);
+      }
+  
+  .service-banner {
+    height: 200px;
+    background-color: #555;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .service-title {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  font-family: monospace;
+  color: cyan;
+  text-decoration: none;
+  }
+  
+  .service-description {
+    font-size: 14px;
+    margin-bottom: 0;
+    color: chartreuse;
+    text-decoration: none;
+  }
+  
+  .service-image {
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .service-text {
+    font-size: 10px;
+    margin-bottom: 20px;
+    
+  }
+
+  .no_line{
+    text-decoration: none;
+  }
+
+  .music{
+    background-color:#363636;
+    
+    
+  }

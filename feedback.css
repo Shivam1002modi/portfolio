@@ -1,0 +1,242 @@
+
+
+
+.suggestion{
+    height: 100px;
+    width: 600px;  
+}
+
+.title{
+color: rgb(255, 0, 251); 
+text-align: center; 
+font-size: 30px;
+}
+.error{
+color: red; 
+}
+.rate{
+color: rgb(43, 202, 226)
+}
+.suggest{
+color:palevioletred;
+font-size: 24px;
+}
+.feedback{
+    display:block;
+    justify-items: center;
+    background-color: #555;
+    color: cyan;
+    height: 100%;
+   
+}
+.fname{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    color: cyan ;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.fname:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+.clg_id{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.clg_id:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+
+.mail{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.mail:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+
+
+.age{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.age:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251); 
+}
+
+.year{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.year:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+
+.branch{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+
+.branch:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+
+.ratings{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+.ratings:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+.rate{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px chartreuse; 
+}
+
+
+
+.sug{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+    
+}
+
+
+.sug:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+.submit{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+
+.submit:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+.submit:active{
+
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 0);
+}
+

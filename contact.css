@@ -1,0 +1,146 @@
+.n{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    color: cyan ;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+
+}   
+
+.n:hover{
+font-size: 24px;
+background-color: #484747;
+width: max-content;
+border-radius: 15px;
+border: solid 3px black;
+padding: 30px;
+box-shadow: 4px 5px 10px rgb(255, 0, 251);
+
+}
+
+
+.email{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    color: cyan ;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.email:hover{
+        font-size: 24px;
+        background-color: #484747;
+        width: max-content;
+        border-radius: 15px;
+        border: solid 3px black;
+        padding: 30px;
+        box-shadow: 4px 5px 10px rgb(255, 0, 251);
+    }
+
+
+
+.sub{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    color: cyan ;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.sub:hover{
+        font-size: 24px;
+        background-color: #484747;
+        width: max-content;
+        border-radius: 15px;
+        border: solid 3px black;
+        padding: 30px;
+        box-shadow: 4px 5px 10px rgb(255, 0, 251);
+    }
+
+
+.msg{ 
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    color: cyan ;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+.msg:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+
+.submit{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    padding: 10px;
+    border-radius: 15px;
+    color: cyan ;
+    border: solid 3px black;
+    box-shadow: 4px 5px 10px cyan; 
+}
+
+
+
+
+.contact_us{
+    display:block;
+    justify-items: center;
+    background-color: #555;
+    color: cyan;
+    height: 100%;
+}
+
+/* .contact_us:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+} */
+
+
+
+.submit:hover{
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 251);
+}
+
+.submit:active{
+
+    font-size: 24px;
+    background-color: #484747;
+    width: max-content;
+    border-radius: 15px;
+    border: solid 3px black;
+    padding: 30px;
+    box-shadow: 4px 5px 10px rgb(255, 0, 0);
+}
+
